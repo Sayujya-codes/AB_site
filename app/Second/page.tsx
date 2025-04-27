@@ -53,7 +53,7 @@ const Second = () => {
             className="px-4 py-2 mt-4 bg-pink-400 rounded-md font-medium text-[16px] text-white cursor-pointer"
             onClick={handleClick}
           >
-            I'm not ready⌛
+            I am not ready⌛
           </button>
         </div>
       </div>
